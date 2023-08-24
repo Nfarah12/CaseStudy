@@ -4,7 +4,11 @@
 
 **MindBridge Analytics Inc.** is Ottawa based company which was founded on **Mar 15, 2015** by *Solon Angel*. Solon holds an MSc in Business Administration and Management from the Leonard de Vinci Management School (EMLV) in Paris and a Masters Certificate in Project Management from Carleton University. After years of frustration, Solon founded MindBridge to address the gaps in the industry with the available solutions in the fraud and financial analytics space.
 
+ <img src="Overview.png" width="300" height="200">
+
 Cuurently MindBridge is a Private Equity company and it is funded by 12 investors and has raised a total of **$102.3M** in funding  over 4 rounds. Their latest funding was raised on Jul 25, 2023 from a Private Equity round. The most recent investors are PSG Equity and Real Ventures.
+
+<img src="Cumulative Funds Raised Over time.png" width="500" height="200">
 
 ## Business Activities
 
